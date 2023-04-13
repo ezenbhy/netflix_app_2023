@@ -1,0 +1,8 @@
+.search-container{width: 100%;text-align: center;padding: 5rem 0;background-color: black;}
+.movie{display: inline-block;padding-right: 0.5rem;padding-bottom: 7rem;}
+.movie__column-poster{cursor: pointer;transition: transform 0.3s ease 0s;}
+.movie__column-poster:hover{transform: scale(1.25);}
+.movie__poster{width: 90%;border-radius: 5px;}
+
+.no-results{display: flex;justify-content: center;align-content: center;height: 100%;padding: 8rem;
+  color: #c5c5c5;}
